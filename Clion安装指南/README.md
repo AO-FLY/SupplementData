@@ -1,0 +1,1 @@
+Clion的安装较为复杂，由于需要自行配置许多环境信息，容易出现很多奇奇怪怪的问题，要通过搜索大量经验帖来解决。另外，Clion是一款付费软件，这里附上其破解补丁（难受的是我忘记这个补丁具体怎么用了，我只在初次安装的时候操作过）以及OpenOCD工具（这是用于STM32下载烧录的插件）。我曾经看过的经验贴有：https://zhuanlan.zhihu.com/p/145801160https://blog.csdn.net/chk218/article/details/83510298https://www.quanxiaoha.com/clion-pojie/clion-pojie-20232.htmlClion的安装包暂不提供了，这个容易获取，放进来的话占空间。
